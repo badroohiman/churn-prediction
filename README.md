@@ -1,2 +1,1 @@
-# churn-prediction
-Developing different machine learning models to predict customer churn prediction.
+[![Python application test with GitHub Actions](https://github.com/badroohiman/churn-prediction/actions/workflows/testing-ci.yml/badge.svg)](https://github.com/badroohiman/churn-prediction/actions/workflows/testing-ci.yml)
